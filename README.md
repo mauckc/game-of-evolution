@@ -1,3 +1,12 @@
+## Improvements:
+
+Periodic Boundaries
+
+Possible Solutions:
+in creature.js
+if creature is on boundary and is before or moving toward the edge'
+then change the location of the creature to move up the length of the box
+
 # Darwin's Game of Evolution
 
 Check out a live running version [on my website](http:/j3rn.com/goe).
